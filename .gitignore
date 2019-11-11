@@ -5,6 +5,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+#ignoring my password folder
+passwords/
+
 # Runtime data
 pids
 *.pid
