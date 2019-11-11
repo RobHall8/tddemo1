@@ -25,10 +25,10 @@ __this is some content, *some of it will be italic*__
 3. item c
 
 ### displaying an image
-! [github logo]{https://github.githubassets.com/images/modules/logos_page/Octocat.png}
+! [github logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 ### displaying hyperlinks
-Visit [Training Dragon]{https://www.trainingdragon.co.uk/} website
+Visit [Training Dragon](https://www.trainingdragon.co.uk) website
 
 ### providing code snippets
 ```javascript
